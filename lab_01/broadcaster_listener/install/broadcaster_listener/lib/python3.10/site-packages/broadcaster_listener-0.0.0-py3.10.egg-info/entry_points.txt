@@ -1,0 +1,6 @@
+[console_scripts]
+dynamic_frame_tf2_broadcaster = broadcaster_listener.dynamic_frame_tf2_broadcaster:main
+fixed_frame_tf2_broadcaster = broadcaster_listener.fixed_frame_tf2_broadcaster:main
+turtle_tf2_broadcaster = broadcaster_listener.turtle_tf2_broadcaster:main
+turtle_tf2_listener = broadcaster_listener.turtle_tf2_listener:main
+
