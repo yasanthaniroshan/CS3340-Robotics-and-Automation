@@ -1,0 +1,26 @@
+running egg_info
+writing build/broadcaster_listener/broadcaster_listener.egg-info/PKG-INFO
+writing dependency_links to build/broadcaster_listener/broadcaster_listener.egg-info/dependency_links.txt
+writing entry points to build/broadcaster_listener/broadcaster_listener.egg-info/entry_points.txt
+writing requirements to build/broadcaster_listener/broadcaster_listener.egg-info/requires.txt
+writing top-level names to build/broadcaster_listener/broadcaster_listener.egg-info/top_level.txt
+reading manifest file 'build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+running build
+running build_py
+copying broadcaster_listener/turtle_tf2_listener.py -> /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/build/lib/broadcaster_listener
+running install
+running install_lib
+copying /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/build/lib/broadcaster_listener/turtle_tf2_listener.py -> /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener
+byte-compiling /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener/turtle_tf2_listener.py to turtle_tf2_listener.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/broadcaster_listener/broadcaster_listener.egg-info to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener-0.0.0-py3.10.egg-info
+running install_scripts
+Installing dynamic_frame_tf2_broadcaster script to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/broadcaster_listener
+Installing fixed_frame_tf2_broadcaster script to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/broadcaster_listener
+Installing turtle_tf2_broadcaster script to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/broadcaster_listener
+Installing turtle_tf2_listener script to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/broadcaster_listener
+writing list of installed files to '/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/install.log'
