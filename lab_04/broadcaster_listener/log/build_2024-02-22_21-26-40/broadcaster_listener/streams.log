@@ -1,0 +1,30 @@
+[0.645s] Invoking command in '/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/prefix_override:/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/broadcaster_listener build --build-base /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/build install --record /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/install.log --single-version-externally-managed
+[0.817s] running egg_info
+[0.817s] writing build/broadcaster_listener/broadcaster_listener.egg-info/PKG-INFO
+[0.817s] writing dependency_links to build/broadcaster_listener/broadcaster_listener.egg-info/dependency_links.txt
+[0.817s] writing entry points to build/broadcaster_listener/broadcaster_listener.egg-info/entry_points.txt
+[0.817s] writing requirements to build/broadcaster_listener/broadcaster_listener.egg-info/requires.txt
+[0.817s] writing top-level names to build/broadcaster_listener/broadcaster_listener.egg-info/top_level.txt
+[0.822s] reading manifest file 'build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.822s] adding license file 'LICENSE'
+[0.822s] writing manifest file 'build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.822s] running build
+[0.822s] running build_py
+[0.823s] copying broadcaster_listener/turtle_tf2_listener.py -> /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/build/lib/broadcaster_listener
+[0.823s] running install
+[0.823s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.823s]   warnings.warn(
+[0.824s] running install_lib
+[0.824s] copying /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/build/lib/broadcaster_listener/turtle_tf2_listener.py -> /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener
+[0.825s] byte-compiling /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener/turtle_tf2_listener.py to turtle_tf2_listener.cpython-310.pyc
+[0.825s] running install_data
+[0.826s] running install_egg_info
+[0.828s] removing '/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener-0.0.0-py3.10.egg-info' (and everything under it)
+[0.828s] Copying build/broadcaster_listener/broadcaster_listener.egg-info to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener-0.0.0-py3.10.egg-info
+[0.829s] running install_scripts
+[0.843s] Installing dynamic_frame_tf2_broadcaster script to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/broadcaster_listener
+[0.843s] Installing fixed_frame_tf2_broadcaster script to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/broadcaster_listener
+[0.843s] Installing turtle_tf2_broadcaster script to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/broadcaster_listener
+[0.843s] Installing turtle_tf2_listener script to /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/broadcaster_listener
+[0.844s] writing list of installed files to '/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/install.log'
+[0.862s] Invoked command in '/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener' returned '0': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/prefix_override:/home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/install/broadcaster_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/broadcaster_listener build --build-base /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/build install --record /home/yasantha/tutorials/ros_tutorial/lab_04/broadcaster_listener/build/broadcaster_listener/install.log --single-version-externally-managed
