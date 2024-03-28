@@ -1,0 +1,4 @@
+[console_scripts]
+my_robot_driver = sim_robot.my_robot_driver:main
+obstacle_avoider = sim_robot.obstacle_avoider:main
+

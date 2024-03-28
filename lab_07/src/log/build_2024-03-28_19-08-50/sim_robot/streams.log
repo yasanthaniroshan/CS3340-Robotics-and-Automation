@@ -1,0 +1,36 @@
+[0.474s] Invoking command in '/home/yasantha/tutorials/ros_tutorial/lab_07/src/sim_robot': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/prefix_override:/home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/sim_robot build --build-base /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build install --record /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/install.log --single-version-externally-managed install_data
+[0.627s] running egg_info
+[0.627s] creating ../build/sim_robot/sim_robot.egg-info
+[0.627s] writing ../build/sim_robot/sim_robot.egg-info/PKG-INFO
+[0.627s] writing dependency_links to ../build/sim_robot/sim_robot.egg-info/dependency_links.txt
+[0.627s] writing entry points to ../build/sim_robot/sim_robot.egg-info/entry_points.txt
+[0.628s] writing requirements to ../build/sim_robot/sim_robot.egg-info/requires.txt
+[0.628s] writing top-level names to ../build/sim_robot/sim_robot.egg-info/top_level.txt
+[0.631s] writing manifest file '../build/sim_robot/sim_robot.egg-info/SOURCES.txt'
+[0.632s] reading manifest file '../build/sim_robot/sim_robot.egg-info/SOURCES.txt'
+[0.632s] adding license file 'LICENSE'
+[0.633s] writing manifest file '../build/sim_robot/sim_robot.egg-info/SOURCES.txt'
+[0.633s] running build
+[0.633s] running build_py
+[0.633s] creating /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build
+[0.633s] creating /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build/lib
+[0.633s] creating /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build/lib/sim_robot
+[0.633s] copying sim_robot/my_robot_driver.py -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build/lib/sim_robot
+[0.634s] copying sim_robot/__init__.py -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build/lib/sim_robot
+[0.634s] running install
+[0.634s] running install_lib
+[0.634s] creating /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages/sim_robot
+[0.634s] copying /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build/lib/sim_robot/my_robot_driver.py -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages/sim_robot
+[0.634s] copying /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build/lib/sim_robot/__init__.py -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages/sim_robot
+[0.635s] byte-compiling /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages/sim_robot/my_robot_driver.py to my_robot_driver.cpython-310.pyc
+[0.635s] byte-compiling /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages/sim_robot/__init__.py to __init__.cpython-310.pyc
+[0.635s] running install_data
+[0.635s] creating /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/share/ament_index
+[0.635s] creating /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/share/ament_index/resource_index
+[0.635s] creating /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/share/ament_index/resource_index/packages
+[0.636s] copying resource/sim_robot -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/share/ament_index/resource_index/packages
+[0.636s] creating /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/share/sim_robot/launch
+[0.636s] copying launch/robot_launch.py -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/share/sim_robot/launch
+[0.636s] creating /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/share/sim_robot/worlds
+[0.636s] error: can't copy 'worlds/my_world.wbt': doesn't exist or not a regular file
+[0.649s] Invoked command in '/home/yasantha/tutorials/ros_tutorial/lab_07/src/sim_robot' returned '1': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/prefix_override:/home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/sim_robot build --build-base /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build install --record /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/install.log --single-version-externally-managed install_data

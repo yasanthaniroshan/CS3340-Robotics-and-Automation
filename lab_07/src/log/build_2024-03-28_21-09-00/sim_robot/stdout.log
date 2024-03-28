@@ -1,0 +1,26 @@
+running egg_info
+writing ../build/sim_robot/sim_robot.egg-info/PKG-INFO
+writing dependency_links to ../build/sim_robot/sim_robot.egg-info/dependency_links.txt
+writing entry points to ../build/sim_robot/sim_robot.egg-info/entry_points.txt
+writing requirements to ../build/sim_robot/sim_robot.egg-info/requires.txt
+writing top-level names to ../build/sim_robot/sim_robot.egg-info/top_level.txt
+reading manifest file '../build/sim_robot/sim_robot.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/sim_robot/sim_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying sim_robot/obstacle_avoider.py -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build/lib/sim_robot
+running install
+running install_lib
+copying /home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/build/lib/sim_robot/obstacle_avoider.py -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages/sim_robot
+byte-compiling /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages/sim_robot/obstacle_avoider.py to obstacle_avoider.cpython-310.pyc
+running install_data
+copying launch/robot_launch.py -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/share/sim_robot/launch
+copying resource/my_robot.urdf -> /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/share/sim_robot/resource
+running install_egg_info
+removing '/home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages/sim_robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/sim_robot/sim_robot.egg-info to /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages/sim_robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing my_robot_driver script to /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/sim_robot
+Installing obstacle_avoider script to /home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/sim_robot
+writing list of installed files to '/home/yasantha/tutorials/ros_tutorial/lab_07/src/build/sim_robot/install.log'
