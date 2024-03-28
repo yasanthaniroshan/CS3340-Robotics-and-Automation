@@ -1,0 +1,21 @@
+[0.436s] Invoking command in '/home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/build --no-deps symlink_data --force
+[0.609s] running develop
+[0.609s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.609s]   warnings.warn(
+[0.726s] running egg_info
+[0.726s] writing my_publisher.egg-info/PKG-INFO
+[0.726s] writing dependency_links to my_publisher.egg-info/dependency_links.txt
+[0.726s] writing entry points to my_publisher.egg-info/entry_points.txt
+[0.727s] writing requirements to my_publisher.egg-info/requires.txt
+[0.727s] writing top-level names to my_publisher.egg-info/top_level.txt
+[0.729s] reading manifest file 'my_publisher.egg-info/SOURCES.txt'
+[0.729s] writing manifest file 'my_publisher.egg-info/SOURCES.txt'
+[0.754s] running build_ext
+[0.754s] Creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages/my-publisher.egg-link (link to .)
+[0.755s] Installing my_publisher script to /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/my_publisher
+[0.755s] 
+[0.755s] Installed /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher
+[0.755s] running symlink_data
+[0.755s] symbolically linking /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/resource/my_publisher -> /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/share/ament_index/resource_index/packages
+[0.755s] symbolically linking /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/package.xml -> /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/share/my_publisher
+[0.776s] Invoked command in '/home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher' returned '0': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/build --no-deps symlink_data --force

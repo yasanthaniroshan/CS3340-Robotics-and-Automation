@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+my_publisher/__init__.py
+my_publisher/draw_circle.py
+my_publisher.egg-info/PKG-INFO
+my_publisher.egg-info/SOURCES.txt
+my_publisher.egg-info/dependency_links.txt
+my_publisher.egg-info/entry_points.txt
+my_publisher.egg-info/requires.txt
+my_publisher.egg-info/top_level.txt
+my_publisher.egg-info/zip-safe
+resource/my_publisher

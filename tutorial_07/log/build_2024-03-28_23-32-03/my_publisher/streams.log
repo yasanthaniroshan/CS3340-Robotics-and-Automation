@@ -1,0 +1,22 @@
+[0.442s] Invoking command in '/home/yasantha/tutorials/ros_tutorial/tutorial_07/src/my_publisher': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_publisher build --build-base /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/build install --record /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/install.log --single-version-externally-managed install_data
+[0.597s] running egg_info
+[0.598s] writing ../../build/my_publisher/my_publisher.egg-info/PKG-INFO
+[0.598s] writing dependency_links to ../../build/my_publisher/my_publisher.egg-info/dependency_links.txt
+[0.598s] writing entry points to ../../build/my_publisher/my_publisher.egg-info/entry_points.txt
+[0.598s] writing requirements to ../../build/my_publisher/my_publisher.egg-info/requires.txt
+[0.598s] writing top-level names to ../../build/my_publisher/my_publisher.egg-info/top_level.txt
+[0.600s] reading manifest file '../../build/my_publisher/my_publisher.egg-info/SOURCES.txt'
+[0.600s] writing manifest file '../../build/my_publisher/my_publisher.egg-info/SOURCES.txt'
+[0.601s] running build
+[0.601s] running build_py
+[0.601s] running install
+[0.601s] running install_lib
+[0.602s] running install_data
+[0.602s] copying package.xml -> /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/share/my_publisher
+[0.602s] running install_egg_info
+[0.603s] removing '/home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages/my_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[0.603s] Copying ../../build/my_publisher/my_publisher.egg-info to /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages/my_publisher-0.0.0-py3.10.egg-info
+[0.603s] running install_scripts
+[0.616s] Installing my_publisher script to /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/my_publisher
+[0.617s] writing list of installed files to '/home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/install.log'
+[0.633s] Invoked command in '/home/yasantha/tutorials/ros_tutorial/tutorial_07/src/my_publisher' returned '0': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_publisher build --build-base /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/build install --record /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/install.log --single-version-externally-managed install_data

@@ -1,0 +1,17 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing my_publisher.egg-info/PKG-INFO
+writing dependency_links to my_publisher.egg-info/dependency_links.txt
+writing entry points to my_publisher.egg-info/entry_points.txt
+writing requirements to my_publisher.egg-info/requires.txt
+writing top-level names to my_publisher.egg-info/top_level.txt
+reading manifest file 'my_publisher.egg-info/SOURCES.txt'
+writing manifest file 'my_publisher.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages/my-publisher.egg-link (link to .)
+Installing my_publisher script to /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/my_publisher
+
+Installed /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher
+running symlink_data

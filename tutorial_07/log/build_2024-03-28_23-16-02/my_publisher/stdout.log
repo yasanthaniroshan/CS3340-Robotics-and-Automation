@@ -1,0 +1,31 @@
+running egg_info
+creating ../build/my_publisher/my_publisher.egg-info
+writing ../build/my_publisher/my_publisher.egg-info/PKG-INFO
+writing dependency_links to ../build/my_publisher/my_publisher.egg-info/dependency_links.txt
+writing entry points to ../build/my_publisher/my_publisher.egg-info/entry_points.txt
+writing requirements to ../build/my_publisher/my_publisher.egg-info/requires.txt
+writing top-level names to ../build/my_publisher/my_publisher.egg-info/top_level.txt
+writing manifest file '../build/my_publisher/my_publisher.egg-info/SOURCES.txt'
+reading manifest file '../build/my_publisher/my_publisher.egg-info/SOURCES.txt'
+writing manifest file '../build/my_publisher/my_publisher.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/build
+creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/build/lib
+creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/build/lib/my_publisher
+copying my_publisher/__init__.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/build/lib/my_publisher
+running install
+running install_lib
+creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages/my_publisher
+copying /home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/build/lib/my_publisher/__init__.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages/my_publisher
+byte-compiling /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages/my_publisher/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/share/ament_index
+creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/share/ament_index/resource_index
+creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/share/ament_index/resource_index/packages
+copying resource/my_publisher -> /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/share/ament_index/resource_index/packages
+copying package.xml -> /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/share/my_publisher
+running install_egg_info
+Copying ../build/my_publisher/my_publisher.egg-info to /home/yasantha/tutorials/ros_tutorial/tutorial_07/install/my_publisher/lib/python3.10/site-packages/my_publisher-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/yasantha/tutorials/ros_tutorial/tutorial_07/build/my_publisher/install.log'

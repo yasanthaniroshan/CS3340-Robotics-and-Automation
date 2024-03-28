@@ -1,0 +1,3 @@
+[console_scripts]
+my_subscriber = my_subscriber.pos_subscriber:main
+

@@ -1,0 +1,19 @@
+[0.441s] Invoking command in '/home/yasantha/tutorials/ros_tutorial/tutorial_07/src/build/my_publisher': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_07/src/build/my_publisher/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_07/src/install/my_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yasantha/tutorials/ros_tutorial/tutorial_07/src/build/my_publisher/build --no-deps symlink_data
+[0.615s] running develop
+[0.615s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.615s]   warnings.warn(
+[0.734s] running egg_info
+[0.734s] writing my_publisher.egg-info/PKG-INFO
+[0.734s] writing dependency_links to my_publisher.egg-info/dependency_links.txt
+[0.734s] writing entry points to my_publisher.egg-info/entry_points.txt
+[0.734s] writing requirements to my_publisher.egg-info/requires.txt
+[0.734s] writing top-level names to my_publisher.egg-info/top_level.txt
+[0.736s] reading manifest file 'my_publisher.egg-info/SOURCES.txt'
+[0.736s] writing manifest file 'my_publisher.egg-info/SOURCES.txt'
+[0.760s] running build_ext
+[0.761s] Creating /home/yasantha/tutorials/ros_tutorial/tutorial_07/src/install/my_publisher/lib/python3.10/site-packages/my-publisher.egg-link (link to .)
+[0.761s] Installing my_publisher script to /home/yasantha/tutorials/ros_tutorial/tutorial_07/src/install/my_publisher/lib/my_publisher
+[0.761s] 
+[0.761s] Installed /home/yasantha/tutorials/ros_tutorial/tutorial_07/src/build/my_publisher
+[0.761s] running symlink_data
+[0.783s] Invoked command in '/home/yasantha/tutorials/ros_tutorial/tutorial_07/src/build/my_publisher' returned '0': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_07/src/build/my_publisher/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_07/src/install/my_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yasantha/tutorials/ros_tutorial/tutorial_07/src/build/my_publisher/build --no-deps symlink_data

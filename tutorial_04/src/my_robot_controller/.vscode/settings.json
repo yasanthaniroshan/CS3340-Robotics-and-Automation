@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yasantha/tutorials/ros_tutorial/tutorial_04/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yasantha/tutorials/ros_tutorial/tutorial_04/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/yasantha/tutorials/ros_tutorial/lab_07/src/install/sim_robot/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

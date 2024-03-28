@@ -1,0 +1,37 @@
+[0.504s] Invoking command in '/home/yasantha/tutorials/ros_tutorial/tutorial_08/src/my_subscriber': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_subscriber build --build-base /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/build install --record /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/install.log --single-version-externally-managed install_data
+[0.688s] running egg_info
+[0.689s] creating ../../build/my_subscriber/my_subscriber.egg-info
+[0.689s] writing ../../build/my_subscriber/my_subscriber.egg-info/PKG-INFO
+[0.689s] writing dependency_links to ../../build/my_subscriber/my_subscriber.egg-info/dependency_links.txt
+[0.689s] writing entry points to ../../build/my_subscriber/my_subscriber.egg-info/entry_points.txt
+[0.689s] writing requirements to ../../build/my_subscriber/my_subscriber.egg-info/requires.txt
+[0.689s] writing top-level names to ../../build/my_subscriber/my_subscriber.egg-info/top_level.txt
+[0.690s] writing manifest file '../../build/my_subscriber/my_subscriber.egg-info/SOURCES.txt'
+[0.692s] reading manifest file '../../build/my_subscriber/my_subscriber.egg-info/SOURCES.txt'
+[0.693s] writing manifest file '../../build/my_subscriber/my_subscriber.egg-info/SOURCES.txt'
+[0.693s] running build
+[0.693s] running build_py
+[0.693s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/build
+[0.693s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/build/lib
+[0.693s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/build/lib/my_subscriber
+[0.693s] copying my_subscriber/pos_subscriber.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/build/lib/my_subscriber
+[0.693s] copying my_subscriber/__init__.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/build/lib/my_subscriber
+[0.693s] running install
+[0.693s] running install_lib
+[0.694s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/lib/python3.10/site-packages/my_subscriber
+[0.694s] copying /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/build/lib/my_subscriber/pos_subscriber.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/lib/python3.10/site-packages/my_subscriber
+[0.694s] copying /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/build/lib/my_subscriber/__init__.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/lib/python3.10/site-packages/my_subscriber
+[0.694s] byte-compiling /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/lib/python3.10/site-packages/my_subscriber/pos_subscriber.py to pos_subscriber.cpython-310.pyc
+[0.694s] byte-compiling /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/lib/python3.10/site-packages/my_subscriber/__init__.py to __init__.cpython-310.pyc
+[0.694s] running install_data
+[0.695s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/share/ament_index
+[0.695s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/share/ament_index/resource_index
+[0.695s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/share/ament_index/resource_index/packages
+[0.695s] copying resource/my_subscriber -> /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/share/ament_index/resource_index/packages
+[0.695s] copying package.xml -> /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/share/my_subscriber
+[0.695s] running install_egg_info
+[0.696s] Copying ../../build/my_subscriber/my_subscriber.egg-info to /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/lib/python3.10/site-packages/my_subscriber-0.0.0-py3.10.egg-info
+[0.696s] running install_scripts
+[0.712s] Installing my_subscriber script to /home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/lib/my_subscriber
+[0.712s] writing list of installed files to '/home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/install.log'
+[0.730s] Invoked command in '/home/yasantha/tutorials/ros_tutorial/tutorial_08/src/my_subscriber' returned '0': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_08/install/my_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_subscriber build --build-base /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/build install --record /home/yasantha/tutorials/ros_tutorial/tutorial_08/build/my_subscriber/install.log --single-version-externally-managed install_data

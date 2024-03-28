@@ -1,0 +1,36 @@
+[0.543s] Invoking command in '/home/yasantha/tutorials/ros_tutorial/tutorial_09/src/my_turtle_controller': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtle_controller build --build-base /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/build install --record /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/install.log --single-version-externally-managed install_data
+[0.728s] running egg_info
+[0.728s] creating ../../build/my_turtle_controller/my_turtle_controller.egg-info
+[0.728s] writing ../../build/my_turtle_controller/my_turtle_controller.egg-info/PKG-INFO
+[0.729s] writing dependency_links to ../../build/my_turtle_controller/my_turtle_controller.egg-info/dependency_links.txt
+[0.729s] writing entry points to ../../build/my_turtle_controller/my_turtle_controller.egg-info/entry_points.txt
+[0.729s] writing requirements to ../../build/my_turtle_controller/my_turtle_controller.egg-info/requires.txt
+[0.729s] writing top-level names to ../../build/my_turtle_controller/my_turtle_controller.egg-info/top_level.txt
+[0.730s] writing manifest file '../../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[0.731s] reading manifest file '../../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[0.732s] writing manifest file '../../build/my_turtle_controller/my_turtle_controller.egg-info/SOURCES.txt'
+[0.732s] running build
+[0.732s] running build_py
+[0.732s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/build
+[0.732s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/build/lib
+[0.732s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/build/lib/my_turtle_controller
+[0.732s] copying my_turtle_controller/__init__.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/build/lib/my_turtle_controller
+[0.733s] copying my_turtle_controller/turtle_controller.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/build/lib/my_turtle_controller
+[0.733s] running install
+[0.733s] running install_lib
+[0.733s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller
+[0.733s] copying /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/build/lib/my_turtle_controller/__init__.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller
+[0.733s] copying /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/build/lib/my_turtle_controller/turtle_controller.py -> /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller
+[0.734s] byte-compiling /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller/__init__.py to __init__.cpython-310.pyc
+[0.734s] byte-compiling /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller/turtle_controller.py to turtle_controller.cpython-310.pyc
+[0.734s] running install_data
+[0.734s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/share/ament_index
+[0.734s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/share/ament_index/resource_index
+[0.734s] creating /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/share/ament_index/resource_index/packages
+[0.734s] copying resource/my_turtle_controller -> /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/share/ament_index/resource_index/packages
+[0.734s] copying package.xml -> /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/share/my_turtle_controller
+[0.734s] running install_egg_info
+[0.735s] Copying ../../build/my_turtle_controller/my_turtle_controller.egg-info to /home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/lib/python3.10/site-packages/my_turtle_controller-0.0.0-py3.10.egg-info
+[0.736s] running install_scripts
+[0.751s] writing list of installed files to '/home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/install.log'
+[0.769s] Invoked command in '/home/yasantha/tutorials/ros_tutorial/tutorial_09/src/my_turtle_controller' returned '0': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_09/install/my_turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtle_controller build --build-base /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/build install --record /home/yasantha/tutorials/ros_tutorial/tutorial_09/build/my_turtle_controller/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+[0.445s] Invoking command in '/home/yasantha/tutorials/ros_tutorial/tutorial_04/build/my_robot_controller': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_04/build/my_robot_controller/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_04/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yasantha/tutorials/ros_tutorial/tutorial_04/build/my_robot_controller/build --no-deps symlink_data --force
+[0.625s] running develop
+[0.626s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.626s]   warnings.warn(
+[0.743s] running egg_info
+[0.743s] writing my_robot_controller.egg-info/PKG-INFO
+[0.743s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.743s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.743s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.743s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.745s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.746s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.771s] running build_ext
+[0.771s] Creating /home/yasantha/tutorials/ros_tutorial/tutorial_04/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.772s] Installing my_first_node script to /home/yasantha/tutorials/ros_tutorial/tutorial_04/install/my_robot_controller/lib/my_robot_controller
+[0.772s] 
+[0.772s] Installed /home/yasantha/tutorials/ros_tutorial/tutorial_04/build/my_robot_controller
+[0.772s] running symlink_data
+[0.772s] symbolically linking /home/yasantha/tutorials/ros_tutorial/tutorial_04/build/my_robot_controller/resource/my_robot_controller -> /home/yasantha/tutorials/ros_tutorial/tutorial_04/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.772s] symbolically linking /home/yasantha/tutorials/ros_tutorial/tutorial_04/build/my_robot_controller/package.xml -> /home/yasantha/tutorials/ros_tutorial/tutorial_04/install/my_robot_controller/share/my_robot_controller
+[0.794s] Invoked command in '/home/yasantha/tutorials/ros_tutorial/tutorial_04/build/my_robot_controller' returned '0': PYTHONPATH=/home/yasantha/tutorials/ros_tutorial/tutorial_04/build/my_robot_controller/prefix_override:/home/yasantha/tutorials/ros_tutorial/tutorial_04/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/yasantha/tutorials/ros_tutorial/tutorial_04/build/my_robot_controller/build --no-deps symlink_data --force

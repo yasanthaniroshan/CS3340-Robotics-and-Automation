@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/my_subscriber/my_subscriber.egg-info/PKG-INFO
+../../build/my_subscriber/my_subscriber.egg-info/SOURCES.txt
+../../build/my_subscriber/my_subscriber.egg-info/dependency_links.txt
+../../build/my_subscriber/my_subscriber.egg-info/entry_points.txt
+../../build/my_subscriber/my_subscriber.egg-info/requires.txt
+../../build/my_subscriber/my_subscriber.egg-info/top_level.txt
+../../build/my_subscriber/my_subscriber.egg-info/zip-safe
+my_subscriber/__init__.py
+my_subscriber/pos_subscriber.py
+resource/my_subscriber
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
