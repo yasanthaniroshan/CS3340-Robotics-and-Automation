@@ -31,22 +31,22 @@ This tutorial will guide you through creating and configuring a workspace in ROS
     ```bash
     sudo apt update
     ```
-    >[!NOTE]
-    > Make sure that you have already added the ros2 path to source list. If not, follow the below steps
-    > ```bash
-    > echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc && source ~/.bashrc
-    > ```
+>[!NOTE]
+> Make sure that you have already added the ros2 path to source list. If not, follow the below steps
+> ```bash
+> echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc && source ~/.bashrc
+> ```
 
 3. Install Colcon
 
     ```bash
     sudo apt install python3-colcon-common-extensions
     ```
-    > [!TIP]
-    > For enable autocompletion in colcon,Follow the below steps
-    > ```bash
-    > echo "source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash" >> ~/.bashrc && source ~/.bashrc
-    > ```
+> [!TIP]
+> For enable autocompletion in colcon,Follow the below steps
+> ```bash
+> echo "source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.bash" >> ~/.bashrc && source ~/.bashrc
+> ```
 
 4. Create a workspace directory
 
